@@ -7,3 +7,7 @@ For more info: https://www.russianlessons.net/russia <br>
 <br>
 ![**Russia**](./images/russia.jpeg) <br>
 **Russia**
+<br>
+<br>
+![!Map](./images/russia_2.jpg) <br>
+**Regional Map of Russia**
