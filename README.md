@@ -3,3 +3,7 @@ This github.io website showcases the scenic beauty of russian culture in various
 For more info: https://www.russianlessons.net/russia <br>
 ![**Russian Federation**](./images/wallpaper.jpg) <br>
 **Russian Federation**
+<br>
+<br>
+![**Russia**](./images/russia.jpeg) <br>
+**Russia**
