@@ -11,3 +11,12 @@ For more info: https://www.russianlessons.net/russia <br>
 <br>
 ![!Map](./images/russia_2.jpg) <br>
 **Regional Map of Russia**
+<br>
+**Regions**:
+1) **Central** <br>
+2) **North-Western** <br>
+3) **Volga** <br>
+4) **Southern** <br>
+5) **Urals** <br>
+6) **Siberian** <br>
+7) **Far-Eastern** <br>
